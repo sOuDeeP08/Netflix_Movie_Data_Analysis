@@ -44,7 +44,7 @@ Genre & Popularity: While Drama is the most frequent, Action, Adventure, and Sci
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/sOuDeeP08/Netflix_Movie_Data_Analysis.git
 
 Install dependencies:
 pip install pandas numpy matplotlib seaborn
